@@ -1,0 +1,161 @@
+.nav{
+   color: gray;
+   border-right: 1px solid gray;
+   text-decoration: none;
+   margin-left:10px; 
+   margin-right:10px;
+   padding-right: 20px;	
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.list{
+	margin-top: 25px;
+}
+.poster{
+	background-image: url("../img/semilla.jpg");
+	height: 500px;
+	background-position: center;
+}
+
+.intro{
+	background-color: #F2F2F2;
+	height: 180px;
+	padding-top: 60px;
+}
+
+.nosotros{
+	padding-top: 60px;
+	height: 400px;
+}
+
+.met-ex{
+	background-image: url("../img/fondo.jpg");
+	height: 380px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+}
+
+.white{
+	color: #ffffff;
+}
+
+.met-img{
+	background-image: url("../img/metodo.jpg");
+	height: 400px;
+	background-size: cover;
+
+	
+	background-repeat: no-repeat;
+}
+
+#proyectos{
+	background-color: green;
+}
+
+#servicios h3{
+	color:green;
+}
+
+.border1{
+	border-top:1px solid #ffffff;
+	border-right: 0.5px solid #ffffff;
+	border-bottom:1px solid #ffffff;
+	border-left: 1px solid #ffffff;
+	height: 200px;
+	width:200px;
+}
+
+.border2{
+	border-top:1px solid #ffffff;
+	border-right: 0.5px solid #ffffff;
+	border-bottom:1px solid #ffffff;
+	height: 200px;
+	width:200px;
+}
+
+.corner1{
+	position: absolute;
+	left: 278px;
+	top:10px;
+	width: 5%;
+}
+
+.corner2{
+	position: absolute;
+	left: 482px;
+	top:16px;
+	width: 4%;
+}
+.corner3{
+	position: absolute;
+	left: 681px;
+	top:10px;
+	width: 5%;
+}
+.corner4{
+	position: absolute;
+	left: 881px;
+	top:21px;
+	width: 4%;
+}
+
+.radio{
+	border-radius: 100%;
+}
+
+.green{
+	color: green;
+}
+
+.net{
+    display: inline-block;
+}
+
+.netred{
+	width:50px; 
+	height:50px;
+	margin-right: 10px;
+}
+
+.centro{
+	padding-left: 144px;
+}
+
+#siguenos{
+	background-color: #4D4D4D;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	height: 200px;
+}
+
+.nw{
+	color: white;
+}
+
+.top1{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.slider{
+	position: absolute;
+	bottom: 325px;
+}
+
+#blogs{
+	background-image: url("../img/fondo2.jpg");
+	height: 650px;
+}
+
+.meto{
+	width: 50%!important;
+	margin: 0px!important
+}
+
+.yellow{
+	color: yellow;
+}
+
